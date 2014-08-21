@@ -1,6 +1,6 @@
 <?php return array (
   'password' => '359359',
-  'host' => 'http://dl.dropbox.com/u/18097045/',
+  'host' => 'https://dl.dropboxusercontent.com/u/18097045/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
